@@ -1,4 +1,4 @@
-### Hi there 👋 I'm getatny
+### Hi there, I'm getatny 👋 
 
 <!--
 **getatny/getatny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
